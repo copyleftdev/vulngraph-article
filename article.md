@@ -3,7 +3,7 @@ title: I Asked My AI Agent About axios. It Knew Everything in 0.03ms.
 published: false
 description: How VulnGraph MCP gives AI agents instant vulnerability intelligence from 9 sources — no API keys, no rate limits, sub-millisecond.
 tags: security, mcp, ai, vulnerabilities
-cover_image: ./axios-hero.gif
+cover_image: https://raw.githubusercontent.com/copyleftdev/vulngraph-article/main/axios-hero.gif
 ---
 
 I pointed an AI agent at a single npm package — **axios**, the HTTP client installed 55 million times per week — and asked: *how risky is this?*
